@@ -5,4 +5,4 @@ class Cheese:
     
     def __repr__(self):
         return 'Cheese(%r)' % self.kind
-        
+
